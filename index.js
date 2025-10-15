@@ -1,1 +1,1 @@
-console.log("welcome to the learning of git...")
+console.log("welcome to the learning about git...")
